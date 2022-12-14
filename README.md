@@ -14,7 +14,7 @@ Requirements:
 * Three (3) input commands 
 * One (1) downloadHandler that allows users to get the raw data they are viewing.
 
-* Students who use _one or more API's_ to feed either their map or data displayed will receive 20 Bonus points on the assignment.
+* Students who use _one or more API's_ to feed either their map or data displayed will receive up to 20 Bonus points on the assignment.
 
 Applications should be deployed and working on [shinyapps.io](https://www.shinyapps.io/).
 
